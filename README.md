@@ -1,4 +1,4 @@
-By: Fernanda Carolina da Silva Pereira, Euller Saez Lages Silva, Davi Vale e Diego Pereira
+By: Fernanda Carolina da Silva Pereira, Euller Saez Lages Silva e Diego Pereira
 
 # Alcohol Consumption in Portugal - A Data Science Project
 
